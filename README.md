@@ -1,5 +1,7 @@
 ## Practice
 This repository is being used to practice Git branching and merging.
+### Branch Practice
+I created a separate branch to practice Git branching.
 
 # Git Branching Exercise
 
