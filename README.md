@@ -1,3 +1,6 @@
+## Practice
+This repository is being used to practice Git branching and merging.
+
 # Git Branching Exercise
 
 This repository contains a simple exercise to practice Git branching and merging.
